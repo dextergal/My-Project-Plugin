@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       Remove Toolbar Frontend
- * Description:       Handle the basics with this plugin.
+ * Description:       This plugin removes the toolbar from the frontend.
  * Author:            Dexter Gal
  */
 
