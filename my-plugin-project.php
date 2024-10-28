@@ -1,9 +1,8 @@
 <?php
 /*
- * Plugin Name: Dex Plugin
- * Plugin Name:       My Basics Plugin
- * Plugin URI:        https://example.com/plugins/the-basics/
+ * Plugin Name:       Remove Toolbar Frontend
  * Description:       Handle the basics with this plugin.
+ * Author:            Dexter Gal
  */
 
  /* Disable WordPress Admin Bar for all users */
